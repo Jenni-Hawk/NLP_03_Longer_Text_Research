@@ -7,4 +7,4 @@ At the same time, I wanted to go deeper on the technology: deeper on BERTopic pa
 
 I went about this project with a consumer researcher mindset and a data science researcher perspective. 
 
-My data science brain explored solutions, and then I used my consumer researcher brain to evaluate the output to ensure it was delivering powerful value from a business perspective. Does the algorithm and resulting output solve the challenges that consumer researchers have? Does it do a better job than a human without the assist of modern AI technology?  
+My data science brain explored solutions, and then I used my consumer researcher brain to evaluate the output to ensure it was delivering the value I needed as a consumer researcher. Does the algorithm and resulting output solve the challenges that consumer researchers have? Does it do a better job than a human without the assist of modern AI technology?  
