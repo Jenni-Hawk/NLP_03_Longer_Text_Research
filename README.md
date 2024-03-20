@@ -5,6 +5,6 @@ After conducting the [tweet research project](https://github.com/Jenni-Hawk/Adva
 
 At the same time, I wanted to go deeper on the technology: deeper on BERTopic parameter testing, deeper on sentence transformer testing, deeper on LLMs. I wanted a deeper understanding of the impact of each of these and the the role they have on shaping the output. 
 
-I went about this project with a consumer researcher mindset and a data science researcher perspective. 
+I went about this project with both a consumer researcher and a data science researcher mindset. 
 
 My data science brain explored solutions, and then I used my consumer researcher brain to evaluate the output to ensure it was delivering the value I needed as a consumer researcher. Does the algorithm and resulting output solve the challenges that consumer researchers have? Does it do a better job than a human without the assist of modern AI technology?  
