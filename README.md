@@ -11,7 +11,7 @@ My data science brain explored solutions, and then I used my consumer researcher
 
 ## 🎯 Primary Objectives: 
 - Determine if open ended survey conventions could be defied leading to more learning that could be achieved more quickly than conventional research methods.
-  ### Convetions of Open Ended Survey Questions:
+  ### Conventions of Open Ended Survey Questions:
     - Don't ask big lifestyle questions because they take too much time to analyze by humans
     - Limit number of words in the response so that it's easier for humans to analyze
     - It takes to long to analyze results so open-ended questions are not typically utilized
