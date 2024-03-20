@@ -8,3 +8,10 @@ At the same time, I wanted to go deeper on the technology: deeper on BERTopic pa
 I went about this project with both a consumer researcher and a data science researcher mindset. 
 
 My data science brain explored solutions, and then I used my consumer researcher brain to evaluate the output to ensure it was delivering the value I needed as a consumer researcher. Does the algorithm and resulting output solve the challenges that consumer researchers have? Does it do a better job than a human without the assist of modern AI technology?  
+
+## 🎯 Primary Objectives: 
+- Determine if open ended survey conventions could be defied leading to more learning that could be achieved more quickly than conventional research methods.
+  ### Convetions of Open Ended Survey Questions:
+    - Don't ask big lifestyle questions because they take too much time to analyze by humans
+    - Limit number of words in the response so that it's easier for humans to analyze
+    - It takes to long to analyze results so open-ended questions are not typically utilized
