@@ -11,6 +11,8 @@ My data science brain explored solutions, and then I used my consumer researcher
 
 ## 🎯 Business Objectives: 
 - Determine if the conventional thinking around open ended survey questions can be defied using new technology, leading to more learning that could be achieved more quickly.
+- Can long responses of open ended questions be quickly and accurately categorized and labeled in a way that is better than human-only analysis?
+  
   ### Conventions of Open Ended Survey Questions:
     - Don't ask big lifestyle questions because they take too much time to analyze by humans. Traditional researchers reserve these questions for qualitative research studies like focus groups or interviews.
     - Limit number of words in the response so that it's easier for humans to analyze
