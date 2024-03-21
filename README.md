@@ -14,4 +14,7 @@ My data science brain explored solutions, and then I used my consumer researcher
   ### Conventions of Open Ended Survey Questions:
     - Don't ask big lifestyle questions because they take too much time to analyze by humans. Traditional researchers reserve these questions for qualitative research studies like focus groups or interviews.
     - Limit number of words in the response so that it's easier for humans to analyze
-    - It takes too long to analyze so responses to open-ended questions usually aren't analyzed or the open ended question isn't utilized at all. 
+    - It takes too long to analyze so responses to open-ended questions usually aren't analyzed or the open ended question isn't utilized at all.
+
+## 🎯 Technical Objectives: 
+- Can the technology accurately categorize and label each of the long text responses? 
