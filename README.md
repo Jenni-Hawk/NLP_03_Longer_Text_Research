@@ -19,4 +19,5 @@ My data science brain explored solutions, and then I used my consumer researcher
     - It takes too long to analyze, therefore, responses to open-ended questions usually aren't analyzed or the open ended question isn't utilized at all.
 
 ## 🎯 Technical Objectives: 
-- Can the technology accurately categorize and label each of the long text responses? 
+- How far can BERtopic, combined with different sentence transformers and LLMs, be pushed to accurately categorize and label long text responses?
+
