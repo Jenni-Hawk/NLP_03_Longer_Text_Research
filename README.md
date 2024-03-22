@@ -1,4 +1,5 @@
 # Advanced Topic Modeling Research: Open Ended Survey Responses
+Understanding how a customized algorithm can push the categorization and labeling of long text
 
 ## 📖 Background:
 After conducting the [tweet research project](https://github.com/Jenni-Hawk/Advanced_Topic_Modeling_1_Tweets/blob/main/README.md) I was compelled to go further. I wanted to see how advances in technology could change the way traditional consumer research is thought about and conducted. One area of consumer research that hasn't been reconsidered is the survey. In particular, I wanted to look at open ended questions (questions that allow peoople to say whatever they want). I wanted to defy the long-held conventions that consumer researchers held about the open-end and push the limits of BERTopic in regards to text length. 
