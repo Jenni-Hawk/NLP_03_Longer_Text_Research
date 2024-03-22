@@ -23,3 +23,5 @@ My data science brain explored solutions, and then I used my consumer researcher
 - How far can BERtopic, tested with different sentence transformers and LLMs, be pushed to accurately categorize and label long text responses?
 - How can a custom algorithm compare to the consumer version of ChatGPT? This is the AI tool in the consumer researcher consideration space. 
 
+## 🎯 Findings
+- When compared to manual human process BERTopic, with the right parameter tuning, sentence transformer and LLM can categorize complex sentences and paragraphs more efficiently than manual process. 
