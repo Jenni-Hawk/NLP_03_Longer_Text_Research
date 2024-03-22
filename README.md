@@ -25,6 +25,7 @@ My data science brain explored solutions, and then I used my consumer researcher
 
 ## 🔍 Findings: Handling Long Text
 - When compared to manual human process, BERTopic is much more efficient at categorizing and labeling multiple sentence and multiple paragraph documents. It does require a lot of experimentation that results in specific BERTopic parameters (special focus on HDBSCAN and UMAP), sentence transformer experimentation, LLM experimentation and some EDA around the type of language being analyzed (inattentive vs attentive)
+- It's also important to trust the outliers, HDBSCAN and UMAP does a good job. My process in reviewing output from the experiments was to turn off the data science brain and activate  the language arts brain.  
 - From a consumer researcher perspective, I said to myself "This is really good. I can really deliver a lot of value to my clients with this."
 - One area that I think it really helps with, when comparing to human process, is time spent overthinking. An algorithm doesn't spend a lot of time debating what category a long piece piece of content belongs to. It just makes a decision and in this experiment it's pretty good. It gets us farther than we would on our own.  While at times BERTopic is challenged in categorizing a piece of content with two ideas, it's kind of amazing what it can still do with long text. 
 - I'm working on more optimization as I write this to get the algorithm from really good to great. 
