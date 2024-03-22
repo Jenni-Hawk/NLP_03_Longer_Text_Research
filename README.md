@@ -1,7 +1,7 @@
 # Advanced Topic Modeling Research: Open Ended Survey Responses
 
 ## 📖 Background:
-After conducting the [tweet research project](https://github.com/Jenni-Hawk/Advanced_Topic_Modeling_1_Tweets/blob/main/README.md) I was compelled to go further. I wanted to see how advances in technology could change the way traditional consumer research is thought about and conducted. One area of consumer research that hasn't been reconsidered is the survey. In particular, I wanted to look at open ended questions (questions that allow peoople to say whatever they want). I wanted to defy the long-held conventions that consumer researchers held about the open-end. 
+After conducting the [tweet research project](https://github.com/Jenni-Hawk/Advanced_Topic_Modeling_1_Tweets/blob/main/README.md) I was compelled to go further. I wanted to see how advances in technology could change the way traditional consumer research is thought about and conducted. One area of consumer research that hasn't been reconsidered is the survey. In particular, I wanted to look at open ended questions (questions that allow peoople to say whatever they want). I wanted to defy the long-held conventions that consumer researchers held about the open-end and push the limits of BERTopic in regards to text length. 
 
 At the same time, I wanted to go deeper on the technology: deeper on BERTopic parameter testing, deeper on sentence transformer testing, deeper on LLMs. I wanted a deeper understanding of the impact of each of these and the the role they have on shaping the output. 
 
@@ -23,5 +23,8 @@ My data science brain explored solutions, and then I used my consumer researcher
 - How far can BERtopic, tested with different sentence transformers and LLMs, be pushed to accurately categorize and label long text responses?
 - How can a custom algorithm compare to the consumer version of ChatGPT? This is the AI tool in the consumer researcher consideration space. 
 
-## 🎯 Findings
-- When compared to manual human process BERTopic, with the right parameter tuning, sentence transformer and LLM can categorize complex sentences and paragraphs more efficiently than manual process. 
+## 🔍 Findings: Handling Long Text
+- When compared to manual human process, BERTopic is much more efficient at categorizing and labeling multiple sentence and multiple paragraph documents. It does require a lot of experimentation that results in specific BERTopic parameters (special focus on HDBSCAN and UMAP), sentence transformer experimentation, LLM experimentation and some EDA around the type of language being analyzed (inattentive vs attentive)
+- From a consumer researcher perspective, I said to myself "This is really good. I can really deliver a lot of value to my clients with this."
+- One area that I think it really helps with, when comparing to human process, is time spent overthinking. An algorithm doesn't spend a lot of time debating what category a long piece piece of content belongs to. It just makes a decision and in this experiment it's pretty good. It gets us farther than we would on our own.  While at times BERTopic is challenged in categorizing a piece of content with two ideas, it's kind of amazing what it can still do with long text. 
+- I'm working on more optimization as I write this to get the algorithm from really good to great. 
